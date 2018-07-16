@@ -2,7 +2,7 @@
 
 [![Travis](https://img.shields.io/travis/benweier/connect-session-firestore.svg?maxAge=2592000&style=flat-square)](https://travis-ci.org/benweier/connect-session-firestore)
 [![Codecov](https://img.shields.io/codecov/c/github/benweier/connect-session-firestore.svg?maxAge=2592000&style=flat-square)](https://codecov.io/gh/benweier/connect-session-firestore)
-[![Greenkeeper badge](https://img.shields.io/badge/greenkeeper-enabled-brightgreen.svg?style=flat-square)](https://greenkeeper.io/)
+[![Greenkeeper badge](https://img.shields.io/badge/greenkeeper-enabled-brightgreen.svg?style=flat-square)](https://greenkeeper.io/) [![Greenkeeper badge](https://badges.greenkeeper.io/benweier/connect-session-firestore.svg)](https://greenkeeper.io/)
 
 `connect-session-firestore` is a Connect/Express compatible session store backed by the [Firebase SDK](https://firebase.google.com/docs/admin/setup).
 
